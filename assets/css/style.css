@@ -104,4 +104,52 @@ a{
     cursor: pointer;
 }
 
-
+a:hover {
+    color:#787A91;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+li {
+    list-style: none;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+}
+.footer {
+    height: 400px;
+    width: 100%;
+    background-image: url(https://drive.google.com/uc?export=view&id=1F8xRENNB0qGzJSiUCwT_54VVjOB6svUz);
+    color: #eeeeee;
+}
+.footer-logo {
+    height: 150px;
+    padding-top: 75px;
+    margin-left: 100px;
+    float: left;
+}
+.row {
+    float:left;
+    font-size: 12px;
+    font-family: 'Poppins';
+    color: #eeeeee;
+    font-weight: normal;
+    display: flex;
+    margin-top: 65px;
+    margin-left: 250px;
+    padding-left: 100px;
+    text-align: left;
+    line-height: 3em;
+    letter-spacing: 0.03em;
+    justify-content: space-evenly;
+}
+.col-md-2 h4 {
+    font-size: 14px;
+    font-family: 'Poppins';
+    letter-spacing: 1.5;
+    color: #b4afaf;
+    font-weight: normal;
+    display: flex;
+    padding-left: 37px;
+}
