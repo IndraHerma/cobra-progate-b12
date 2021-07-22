@@ -24,6 +24,18 @@
     .btn {
         display: block;
     }
+	/* footer */
+	footer .footer-logo {
+    height: 0px;
+    padding-top: 30px;
+    margin-left: 30px;
+    float: left;
+	}
+	.row{
+		float: right;
+		font-size: 13px;
+		margin-top: 0px;
+	}
 }
 
 /* Smartphone */
@@ -55,4 +67,22 @@
         display: block;
         width: 100%;
     }
+    .card-container {
+        padding: 10px 40px;
+        margin-bottom: 10px;
+    }
+
+    /* footer */
+	footer .footer-logo{
+		height: 15px;
+		padding-top: 10px;
+		margin-left: 10px;
+	}
+	
+	.row{
+		float: left;
+		margin-top: 55px;
+		padding-left: 0px;
+		margin-left: 0px;
+	}
 }
