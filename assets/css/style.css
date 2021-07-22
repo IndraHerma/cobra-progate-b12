@@ -117,6 +117,8 @@ li {
     color: white;
     font-style: normal;
     font-weight: normal;
+    
+    padding-left: 37px;
 }
 .footer {
     height: 400px;
@@ -152,4 +154,5 @@ li {
     color: #b4afaf;
     font-weight: normal;
     display: flex;
+    padding-left: 37px;
 }
