@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-html,body,ul,ol,h1,h2,h3,h5,h6,p,div{
+html,body,ul,li,ol,h1,h2,h3,h4,h5,h6,p,div{
     margin: 0;
     padding: 0;
 }
@@ -112,7 +112,7 @@ a {
     text-decoration: none;
     color: white;
 }
-li {
+.col-md-2  li {
     list-style: none;
     color: white;
     font-style: normal;
