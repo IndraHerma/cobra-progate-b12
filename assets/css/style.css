@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-html,body,ul,ol,li,h1,h2,h3,h4,h5,h6,p,div{
+html,body,ul,ol,h1,h2,h3,h5,h6,p,div{
     margin: 0;
     padding: 0;
 }
@@ -117,8 +117,6 @@ li {
     color: white;
     font-style: normal;
     font-weight: normal;
-    
-    padding-left: 37px;
 }
 .footer {
     height: 400px;
