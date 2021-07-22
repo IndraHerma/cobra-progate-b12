@@ -105,14 +105,14 @@ a{
 }
 
 /* Footer */
-a:hover {
+li a:hover {
     color:#787A91;
 }
-a {
+li a {
     text-decoration: none;
     color: white;
 }
-.col-md-2  li {
+li {
     list-style: none;
     color: white;
     font-style: normal;
@@ -124,7 +124,7 @@ a {
     background-image: url(https://drive.google.com/uc?export=view&id=1F8xRENNB0qGzJSiUCwT_54VVjOB6svUz);
     color: #eeeeee;
 }
-.footer-logo {
+.footer .footer-logo {
     height: 150px;
     padding-top: 75px;
     margin-left: 100px;
