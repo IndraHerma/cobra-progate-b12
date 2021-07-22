@@ -104,6 +104,7 @@ a{
     cursor: pointer;
 }
 
+/* Footer */
 a:hover {
     color:#787A91;
 }
@@ -151,5 +152,4 @@ li {
     color: #b4afaf;
     font-weight: normal;
     display: flex;
-    padding-left: 37px;
 }
